@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "nome": "gh",
+    "descrizione": "b",
+    "importo": 124,
+    "partecipanti": [
+      "a",
+      "j"
+    ],
+    "gruppoId": "gmuikygbllvrthi",
+    "data": "2026-07-16"
+  },
+  {
+    "nome": "j",
+    "descrizione": "b",
+    "importo": 532,
+    "partecipanti": [
+      "a",
+      "j"
+    ],
+    "gruppoId": "gmuikygbllvrthi",
+    "data": "2026-07-16"
+  }
+]
