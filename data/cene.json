@@ -1,1 +1,75 @@
-[]
+[
+  {
+    "titolo": "a",
+    "sconti": {
+      "antipasto": 0,
+      "primi": 23,
+      "secondi": 0,
+      "contorni": 0,
+      "pizza": 0,
+      "panini": 0,
+      "frutta": 0,
+      "acqua": 0,
+      "caffe": 0,
+      "bibite": 0,
+      "birra": 0,
+      "vino": 52,
+      "liquori": 0,
+      "menu": 0,
+      "coperto": 12,
+      "dolci": 0
+    },
+    "persone": [
+      {
+        "nome": "a",
+        "antipasto": 1,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 210,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 134,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "gh",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 21,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      }
+    ],
+    "speseCondivise": [],
+    "pagatori": [
+      {
+        "nome": "gh",
+        "importo": 32
+      },
+      {
+        "nome": "j",
+        "importo": 2
+      }
+    ],
+    "data": "2026-01-27"
+  }
+]
